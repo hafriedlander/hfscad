@@ -17,3 +17,6 @@ These are almost certainly not:
 
 Everything under LGPL V3, except the stuff in "thirdparty", which is under
 whatever license the original author made it available under.
+
+Note this uses submodules, so either do `git submodule init && git submodule update` after cloning
+or `git clone --recurse-submodules` when you clone it

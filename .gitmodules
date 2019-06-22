@@ -1,0 +1,12 @@
+[submodule "thirdparty/BOSL"]
+	path = thirdparty/BOSL
+	url = https://github.com/revarbat/BOSL.git
+[submodule "thirdparty/openscad-openbuilds"]
+	path = thirdparty/openscad-openbuilds
+	url = https://github.com/mazerte/openscad-openbuilds.git
+[submodule "thirdparty/nutsnbolts"]
+	path = thirdparty/nutsnbolts
+	url = https://github.com/JohK/nutsnbolts.git
+[submodule "thirdparty/scad-utils"]
+	path = thirdparty/scad-utils
+	url = https://github.com/openscad/scad-utils.git
